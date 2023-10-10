@@ -54,11 +54,11 @@ h2 span {
 
 .group .imgBx {
     position: relative;
-    width: 100%;
+    width: 80%;
 }
 
 .group .imgBx img {
-    width: 100%;
+    width: 80%;
 }
 
 .group p {
